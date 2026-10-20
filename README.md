@@ -1,4 +1,4 @@
-# Automa-o_e_An-lise_Preditiva_de_Vendas_NovaStore
+# Automacao_e_Analise_Preditiva_de_Vendas_NovaStore
 # 🐍 Projeto 3: Automação e Análise Preditiva de Vendas (NovaStore)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
