@@ -1,11 +1,11 @@
 # Automa-o_e_An-lise_Preditiva_de_Vendas_NovaStore
 # 🐍 Projeto 3: Automação e Análise Preditiva de Vendas (NovaStore)
 
-![Python]()
-![Pandas]()
-![Matplotlib]()
-![Seaborn]()
-![Google Colab]()
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ---
 
