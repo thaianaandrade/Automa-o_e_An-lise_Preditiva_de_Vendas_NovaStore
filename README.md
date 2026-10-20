@@ -10,7 +10,7 @@
 ---
 
 ## 📌 Visão Geral do Projeto
-Este projeto integra o *Portfólio Tríplice de Análise de Dados da NovaStore, focando-se no processamento, automação e visualização estatística de dados de vendas utilizando a linguagem **Python*. 
+Este projeto integra o *Portfólio Tríplice de Análise de Dados da NovaStore, focando-se no processamento, automação e visualização estatística de dados de vendas utilizando a linguagem Python. 
 
 Após a modelação relacional e consultas RFM realizadas em MySQL (Projeto 2), este script automatiza o cálculo de métricas de desempenho comercial (Faturamento Total, Ticket Médio e Volume de Pedidos) e gera gráficos corporativos prontos para tomada de decisão.
 
