@@ -18,7 +18,7 @@ Após a modelação relacional e consultas RFM realizadas em MySQL (Projeto 2), 
 
 ## 🛠️ Tecnologias e Bibliotecas Utilizadas
 * *Linguagem:* Python
-* *Ambiente de Desenvolvimento:* Google Colab.
+* *Ambiente de Desenvolvimento:* Google Colab / Jupyter Notebook.
 * *Manipulação e Tratamento de Dados:* pandas
 * *Visualização Estatística de Dados:* matplotlib e seaborn
 
